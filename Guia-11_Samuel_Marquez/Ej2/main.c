@@ -3,7 +3,7 @@
 
 /* run this program using the console pauser or add your own getch, system("pause") or input loop */
 
-	void area();
+	void area();//DEben ser iguales definición y declaración.
 	void perimetro();
 	int total(int aa, int bb, int ar, int per);
 	
